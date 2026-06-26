@@ -1,7 +1,11 @@
-# AUTOMAÇÃO DE ANÁLISE DE DADOS E ENVIO DE E-MAIL
-![Gif com a execução do projeto](assets\execucao_do_projeto.gif)
+<h1 align=center> AUTOMAÇÃO DE ANÁLISE DE DADOS <br>
+E ENVIO DE E-MAIL</h1>
+
+![Gif com a execução do projeto](https://github.com/jorgetxjr/automacao_analise_e_email/blob/main/assets/execucao_do_projeto.gif)
 ## Sobre o projeto
-(bote badges de licença, versão do python e do jupyter notebook aqui)
+
+![LICENSE](https://img.shields.io/badge/License-MIT-green) ![python](https://img.shields.io/badge/Python-3.14.2-green) ![jupyter](https://img.shields.io/badge/Jupyter-2025.9.1-green)
+
 Este projeto é um dos primeiros a serem desenvolvidos no curso Python Impressionador, da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 Nele ocorre o acesso a uma base de dados, a análise de seu conteúdo e o envio do resultado desta análise por e-mail.
 
@@ -34,7 +38,7 @@ Este bloco tem como o retorno a posição do mouse após 5 segundos.
 Também antes da execução, deve ser preenchido o caminho completo para o arquivo excel baixado, assim como o e-mail de destinatário.
 Para a execução de todos os blocos, clique no botão "Run All" da interface do Jupyter Notebook:
 
-![botão run all](assets\run_all_button.png)
+![botão run all](https://github.com/jorgetxjr/automacao_analise_e_email/blob/main/assets/run_all_button.png)
 
 ## Problemas Enfrentados
 A característica de vulnerabilidade deste projeto está no formato de interação do click usada pelo PyAutoGUI. Qualquer modificação em resolução da tela, do posicionamento das janelas pode fazer com que automação pare de funcionar.
@@ -44,4 +48,5 @@ O próximo projeto a ser feito para este curso da Hashtag Treinamentos, fará al
 
 ## Contribuições e contato
 Meu contato no LinkedIn:
-(inserir uma badge aqui e ver também como estão os meus contatos no linkedin)
+
+[![My_linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/jorge-teixeira-jr/)
